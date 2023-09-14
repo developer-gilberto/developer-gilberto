@@ -1,9 +1,8 @@
 # 👋 Olá! Meu nome é Gilberto Lopes.<br>
 
-🧑‍💻 Estou estudando para realizar o maior sonho da minha vida, que é me tornar um programador full stack. 🖥️<br>
-<!--Tenho consciência que para conseguir isto, a jornada é longa e cheia de dificuldades.<br>E é por isso que estou dedicando todo tempo que tenho disponível e esforço para aprender.<br>Sou extremamente dedicado e modesta parte, sempre que faço uma promessa, eu sempre cumpro. <br>E eu prometi para eu mesmo que eu vou ser um PROGRAMADOR. <br><br> -->
-💬 Atualmente, estou me dedicando a estudar programação por conta própria, utilizando recursos online como cursos, documentações e tutoriais.
-Meu plano para o futuro é quando estiver trabalhando como programador fazer um curso superior e inglês.<br>Estou trabalhando em projetos pessoais para praticar os conhecimentos que estou adquirindo.<br>HTML | CSS | JavaScript.<br>Familiaridade com Git e GitHub.<br><br>Embora ainda esteja no início da minha caminhada até me tornar um programador, gostaria de ter uma oportunidade para aplicar meus conhecimentos em projetos reais junto com outros desenvolvedores para validar meus conhecimentos e consequentemente evoluir na carreira.<br><br>
+🧑‍💻 Estou estudando para realizar o maior sonho da minha vida, que é me tornar um programador. 🖥️<br>
+ Atualmente, estou me dedicando a estudar programação por conta própria, utilizando recursos da internet como cursos, documentações e tutoriais. Futuramente, quando estiver trabalhando como programador, pretendo fazer curso superior e inglês para obter mais conhecimento.<br>Embora ainda esteja no início da minha caminhada até me tornar um programador, gostaria de ter uma oportunidade para aprimorar minhas habilidades técnicas, aplicar meus conhecimentos em projetos reais junto com outros desenvolvedores, contribuindo com minhas ideias, validando meus conhecimentos e também aprender com outros desenvolvedores.<br>💬"Entender como o computador funciona, o que acontece, como acontece e principalmente, como é feito as coisas por trás da tela deste dispositivo que você está lendo neste exato momento. Poder me comunicar com o computador através de linguagens de códigos complexos que somente eu e ele entendemos. Programá-lo para que resolva problemas complexos da vida real por mim. Isso é fascinante! Isso é programação."
+Lopes, Gilberto 2023<br><br>
 
 ## 💻 Hard Skills:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
