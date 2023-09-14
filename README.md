@@ -1,7 +1,9 @@
 # 👋 Olá! Meu nome é Gilberto Lopes.<br>
 
-🧑‍💻 Estou estudando para realizar o maior sonho da minha vida, que é me tornar um programador. 🖥️<br>
- Atualmente, estou me dedicando a estudar programação por conta própria, utilizando recursos da internet como cursos, documentações e tutoriais. Futuramente, quando estiver trabalhando como programador, pretendo fazer curso superior e inglês para obter mais conhecimento.<br>Embora ainda esteja no início da minha caminhada até me tornar um programador, gostaria de ter uma oportunidade para aprimorar minhas habilidades técnicas, aplicar meus conhecimentos em projetos reais junto com outros desenvolvedores, contribuindo com minhas ideias, validando meus conhecimentos e também aprender com outros desenvolvedores.<br>💬"Entender como o computador funciona, o que acontece, como acontece e principalmente, como é feito as coisas por trás da tela deste dispositivo que você está lendo neste exato momento. Poder me comunicar com o computador através de linguagens de códigos complexos que somente eu e ele entendemos. Programá-lo para que resolva problemas complexos da vida real por mim. Isso é fascinante! Isso é programação."
+🧑‍💻 Estou estudando para realizar o maior sonho da minha vida, que é me tornar um programador. 🖥️<br><br>
+ Atualmente, estou me dedicando a estudar programação por conta própria, utilizando recursos da internet como cursos, documentações e tutoriais. Futuramente, quando estiver trabalhando como programador, pretendo fazer curso superior e inglês para obter mais conhecimento.<br><br>
+ Embora ainda esteja no início da minha caminhada até me tornar um programador, gostaria de ter uma oportunidade para aprimorar minhas habilidades técnicas, aplicar meus conhecimentos em projetos reais junto com outros desenvolvedores, contribuindo com minhas ideias, validando meus conhecimentos e também aprender com outros desenvolvedores.<br><br>
+ 💬"Entender como o computador funciona, o que acontece, como acontece e principalmente, como é feito as coisas por trás da tela deste dispositivo que você está lendo neste exato momento. Poder me comunicar com o computador através de linguagens de códigos complexos que somente eu e ele entendemos. Programá-lo para que resolva problemas complexos da vida real por mim. Isso é fascinante! Isso é programação."
 Lopes, Gilberto 2023<br><br>
 
 ## 💻 Hard Skills:
@@ -14,7 +16,7 @@ Lopes, Gilberto 2023<br><br>
 ![VScode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 🌱 Soft Skills:
+## 🤝 Soft Skills:
 - Facilidade em me relacionar com pessoas
 - Comunicativo<br>
 - Compromisso<br>
