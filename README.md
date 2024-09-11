@@ -1,6 +1,6 @@
-# console.log("Hello World!");<br>
+#👋  console.log("Hello World!");<br>
 
-# 👋 Olá! Meu nome é Gilberto Lopes.<br>
+# Eu sou Gilberto Lopes.<br>
 
 🧑‍💻 Estou estudando para realizar o maior sonho da minha vida, que é me tornar um programador. 🖥️<br><br>
  Atualmente, estou me dedicando a estudar programação por conta própria, utilizando recursos da internet como cursos, documentações e tutoriais. Futuramente, quando estiver trabalhando como programador, pretendo fazer curso superior e inglês para obter mais conhecimento.<br><br>
