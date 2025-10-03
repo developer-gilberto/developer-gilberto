@@ -1,10 +1,9 @@
-#  console.log("Hello World!"); 👋<br>
+# "Hello World!" 👋<br>
 
 # Eu sou Gilberto Lopes.<br>
 
 🧑‍💻 Estou estudando para realizar o maior sonho da minha vida, que é me tornar um programador. 🖥️<br><br>
  Atualmente, estou me dedicando a estudar programação por conta própria, utilizando recursos da internet como cursos, documentações e tutoriais. Futuramente, quando estiver trabalhando como programador, pretendo fazer curso superior e inglês para obter mais conhecimento.<br><br>
- Embora ainda esteja no início da minha caminhada até me tornar um programador, gostaria de ter uma oportunidade para aprimorar minhas habilidades técnicas, aplicar meus conhecimentos em projetos reais junto com outros desenvolvedores, contribuindo com minhas ideias, validando meus conhecimentos e também aprender com outros desenvolvedores.<br><br>
  💬"Entender como o computador funciona, o que acontece, como acontece e principalmente, como é feito as coisas por trás da tela deste dispositivo que você está lendo neste exato momento. Poder me comunicar com o computador através de linguagens de códigos complexos que somente eu e ele entendemos. Programá-lo para que resolva problemas complexos da vida real por mim. Isso é fascinante! Isso é programação."
 Lopes, Gilberto 2023<br><br>
 
@@ -27,8 +26,10 @@ Lopes, Gilberto 2023<br><br>
 ## 🌐 Sociais:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/developer.gilberto) 
+<!-- 
 [![Instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/) 
 [![Instagram](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](developer.gilberto@gmail.com) 
+-->
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=developer-gilberto&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
