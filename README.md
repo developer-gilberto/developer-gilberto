@@ -1,10 +1,10 @@
 ## "Hello World!" 👋<br>
 
-# Eu sou Gilberto Lopes. 😃 <br>
+# Eu sou Gilberto Lopes. <br>
 
 <!--🧑‍💻 Estou estudando para realizar o maior sonho da minha vida, que é me tornar um programador. 🖥️<br><br>
  Atualmente, estou me dedicando a estudar programação por conta própria, utilizando recursos da internet como cursos, documentações e tutoriais. Futuramente, quando estiver trabalhando como programador, pretendo fazer curso superior e inglês para obter mais conhecimento.<br><br>-->
- 🧐 "Entender como o computador funciona, o que acontece, como acontece e principalmente, como é feito as coisas por trás da tela deste dispositivo que você está lendo neste exato momento. Poder me comunicar com o computador através de linguagens de códigos complexos que somente eu e ele entendemos. Programá-lo para que resolva problemas complexos da vida real por mim. Isso é **FASCINANTE**! Isso é ser **PROGRAMADOR**. 🧑‍💻"<br>💬 *Lopes, Gilberto 2023*.<br><br>
+ 🧐 "Entender como o computador funciona, o que acontece, como acontece e principalmente, como é feito as coisas por trás da tela deste dispositivo que você está lendo neste exato momento. Poder me comunicar com o computador através de linguagens de códigos complexos que somente eu e ele entendemos. Programá-lo para que resolva problemas complexos da vida real por mim. Isso é **FASCINANTE**! Isso é ser **PROGRAMADOR**." 🧑‍💻<br>💬 *Lopes, Gilberto 2023*.<br><br>
 
 ## 💻 Hard Skills:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
