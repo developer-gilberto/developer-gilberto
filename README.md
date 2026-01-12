@@ -79,7 +79,7 @@ Veja [Código fonte](https://github.com/developer-gilberto/Funny-rede-social) e 
 ## 🌐 Contato
 - Email: [developer.gilberto@gmail.com](mailto:developer.gilberto@gmail.com)
 - Site: [gilbertolopes.dev](https://gilbertolopes.dev)
-- Instagran: [@developer.gilberto](instagram.com/developer.gilberto)
+- Instagram: [@developer.gilberto](instagram.com/developer.gilberto)
 <!-- 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/developer.gilberto) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:developer.gilberto@gmail.com)
