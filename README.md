@@ -38,8 +38,10 @@ Aberto a oportunidades que me permitam aprender, crescer e contribuir de forma p
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 
+
 ## 🤝 Habilidades comportamentais
-Tenho muita facilidade em me relacionar com as pessoas, busco dar meu melhor em tudo que faço e estou sempre aberto à críticas e opniões. Comunicativo, dedicado, responsável, possuo muita vontade de aprender ainda mais.Desenvolvedor
+Tenho muita facilidade em me relacionar com as pessoas, busco dar meu melhor em tudo que faço e estou sempre aberto à críticas e opniões. Comunicativo, dedicado, responsável, possuo muita vontade de aprender ainda mais.
+
 
 ## 📌 O que você vai encontrar nos meus repositórios
 
