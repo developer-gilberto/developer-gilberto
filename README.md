@@ -2,13 +2,14 @@
 
 # Eu sou Gilberto Lopes <br>
 
-Sou estudante de programação com foco em me tornar desenvolvedor profissional, estou sempre buscando evoluir e aprender através de projetos práticos, estudo constante e boas práticas de desenvolvimento.
-Me considero desenvolvedor web fullstack, com um carinho especial ao backend.
+Desenvolvedor full stack com experiência prática em integração de APIs de terceiros utilizando OAuth, além de proteção de rotas, autenticação e autorização com JWT. Criador do ShopTurbo, um sistema ERP com integração à plataforma oficial da Shopee. Possuo experiência no desenvolvimento de projetos frontend e backend desde a concepção até chegar ao deploy, incluindo levantamento de requisitos com cliente, aquisição de domínio, configuração de DNS, subdomínios e conexão com bancos de dados. Sou entusiasta, fã e usuário do ecossistema Linux. 
+
+Aberto a oportunidades que me permitam aprender, crescer e contribuir de forma prática em projetos que geram valor na empresa e nas pessoas.
 
 
  🧐 "Entender como é feito as coisas por trás da tela deste dispositivo que você está lendo neste exato momento. Poder me comunicar com o computador através de códigos que somente eu e ele entendemos. Programá-lo para que resolva problemas complexos da vida real por mim. Isso é **FASCINANTE**! Isso é ser **PROGRAMADOR**." 🧑‍💻<br>💬 *Lopes, Gilberto 2023*.<br><br>
 
-## 🛠️ Hard Skills
+## 🛠️ Habilidades técnicas
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -37,12 +38,8 @@ Me considero desenvolvedor web fullstack, com um carinho especial ao backend.
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 
-## 🤝 Soft Skills
-- Facilidade em me relacionar com pessoas
-- Comunicativo<br>
-- Compromisso<br>
-- Responsabilidade<br>
-- Vontade de aprender
+## 🤝 Habilidades comportamentais
+Tenho muita facilidade em me relacionar com as pessoas, busco dar meu melhor em tudo que faço e estou sempre aberto à críticas e opniões. Comunicativo, dedicado, responsável, possuo muita vontade de aprender ainda mais.Desenvolvedor
 
 ## 📌 O que você vai encontrar nos meus repositórios
 
