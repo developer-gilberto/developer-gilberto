@@ -2,9 +2,9 @@
 
 # Eu sou Gilberto Lopes <br>
 
-Desenvolvedor full stack com experiência prática em integração de APIs de terceiros utilizando OAuth, além de proteção de rotas, autenticação e autorização com JWT. Criador do ShopTurbo, um sistema ERP com integração à plataforma oficial da Shopee. Possuo experiência no desenvolvimento de projetos frontend e backend desde a concepção até chegar ao deploy, incluindo levantamento de requisitos com cliente, aquisição de domínio, configuração de DNS, subdomínios e conexão com bancos de dados. Sou entusiasta, fã e usuário do ecossistema Linux. 
+Desenvolvedor full stack com experiência prática em **integração de APIs de terceiros utilizando OAuth**, além de proteção de rotas, **autenticação e autorização com JWT**. Criador do **SaaS ShopTurbo**, um sistema ERP com integração com API oficial da Shopee. Possuo experiência no desenvolvimento de projetos frontend e backend desde a concepção até chegar ao deploy, incluindo levantamento de requisitos com cliente, aquisição de domínio, configuração de DNS, subdomínios e conexão com bancos de dados externos. Sou entusiasta, fã e usuário do ecossistema Linux.
 
-Aberto a oportunidades que me permitam aprender, crescer e contribuir de forma prática em projetos que geram valor na empresa e nas pessoas.
+Aberto a oportunidades que me permitam aprender, crescer e contribuir de forma prática em projetos que geram **valor na empresa e nas pessoas**.
 
 
  🧐 "Entender como é feito as coisas por trás da tela deste dispositivo que você está lendo neste exato momento. Poder me comunicar com o computador através de códigos que somente eu e ele entendemos. Programá-lo para que resolva problemas complexos da vida real por mim. Isso é **FASCINANTE**! Isso é ser **PROGRAMADOR**." 🧑‍💻<br>💬 *Lopes, Gilberto 2023*.<br><br>
@@ -40,14 +40,14 @@ Aberto a oportunidades que me permitam aprender, crescer e contribuir de forma p
 
 
 ## 🤝 Habilidades comportamentais
-Tenho muita facilidade em me relacionar com as pessoas, busco dar meu melhor em tudo que faço e estou sempre aberto à críticas e opniões. Comunicativo, dedicado, responsável, possuo muita vontade de aprender ainda mais.
+Tenho muita **facilidade em me relacionar com as pessoas**, busco dar meu melhor em tudo que faço e estou sempre aberto à críticas e opniões. Comunicativo, dedicado, responsável, possuo muita vontade de aprender ainda mais.
 
 
 ## 📌 O que você vai encontrar nos meus repositórios
 
 - Projetos frontend e backend
+- Integração com APIs de terceiros (Shopee) usando OAuth
 - APIs REST com http status code coerentes
-- Integração com APIs de terceiros (Shopee) usando OAuth para autorização
 - Autenticação e autorização com JWT
 - Documentação completa bem detalhada passo a passo
 - Uso de Docker para ambientes de desenvolvimento
@@ -59,13 +59,13 @@ Tenho muita facilidade em me relacionar com as pessoas, busco dar meu melhor em 
 Aqui estão alguns dos projetos que representam melhor minhas habilidades técnicas atualmente:
 
 
-- API Shopturbo Server - API REST desenvolvida com TypeScript, Node.js, Express, autenticação e integração com API oficial da Shopee.
+- **Shopturbo Server (API)** - Uma **API REST** para fazer a integração do meu SaaS ShoptTurbo com a **API oficial da Shopee**. Desenvolvida usando **TypeScript, Node.js, Express, Prisma ORM, Postgres e Docker**.
 Veja [Código fonte](https://github.com/developer-gilberto/shopturbo-server) e [Deploy](https://shopturbo-api.gilbertolopes.dev/)
 
-- ERP Shopturbo - Sistema ERP desenvolvido com Next.js que faz integração com backend externo (API Shopturbo).
+- **Shopturbo ERP** - Meu próprio SaaS, um sistema ERP para pessoas que possuem loja na Shopee, possam gerenciar seus produtos, vendas, saberem quanto estão tendo de custos, quanto estão tendo de lucro, entre outras funcionalidades. Desenvolvido usando **JavaScript, Next.js, React e TailwindCSS**.
 Veja [Código fonte](https://github.com/developer-gilberto/shopturbo) e [Deploy](https://shopturbo.gilbertolopes.dev/)
 
-- Funny rede social - Uma rede social focada em ser "clean" e com bastante memes. Desenvolvida principalmente com Express e Handlebars.
+- **Funny rede social** - Uma rede social que permite aos usuários fazer publicações com texto e/ou imagens, buscar por outros usuários, conectar-se com amigos e interagir em uma plataforma social “clean” e divertida. Desenvolvida usando **JavaScript, Node.js, Express e Handlebars**.
 Veja [Código fonte](https://github.com/developer-gilberto/Funny-rede-social) e [Deploy](https://funny.gilbertolopes.dev/)
 
 
@@ -75,10 +75,11 @@ Veja [Código fonte](https://github.com/developer-gilberto/Funny-rede-social) e 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=developer-gilberto&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-## 🌐 Contato
-- Email: [developer.gilberto@gmail.com](mailto:developer.gilberto@gmail.com)
-- Site: [gilbertolopes.dev](https://gilbertolopes.dev)
-- Instagram: [@developer.gilberto](instagram.com/developer.gilberto)
+## 🌐 Disponibilidade e Contato
+- **Email**: [developer.gilberto@gmail.com](mailto:developer.gilberto@gmail.com)
+- **LinkedIn**: [gilbertolopes-dev](https://linkedin.com/in/gilbertolopes-dev)
+- **Site pessoal**: [gilbertolopes.dev](https://gilbertolopes.dev)
+- **Instagram**: [@developer.gilberto](instagram.com/developer.gilberto)
 <!-- 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/developer.gilberto) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:developer.gilberto@gmail.com)
