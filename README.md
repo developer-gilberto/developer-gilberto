@@ -2,7 +2,7 @@
 
 # Eu sou Gilberto Lopes <br>
 
-Desenvolvedor Full Stack com 1+ anos de experiência prática em **integração com API de terceiros** utilizando **OAuth**, autenticação e autorização com **JWT**. Capaz de entregar projetos frontend e backend desde a concepção até o deploy, utilizando **TypeScript**, **JavaScript**, **Node.js**, **Express**, **Nest.js**, **Next.js** e **React**. Além do uso de **ORM** para gerenciamento de **migrations** e modelagem de bancos de dados relacionais como **MySQL**, **PostgreSQL** e implementação de cache usando **Redis**.
+Desenvolvedor Full Stack com experiência prática no desenvolvimento e manutenção de aplicações web modernas, utilizando **React**, **Next.js**, **TailwindCSS** no frontend e **Node.js**, **TypeScript**, **Nest.js** e **Express** no backend. Além do uso de **ORM** para modelagem de bancos de dados relacionais com **Prisma ORM** e **PostgreSQL**, implementação e consumo de APIs REST e experiência com integração com APIs de terceiros (Shopee) via **OAuth**. Tenho familiaridade com **Docker** para criação e padronização de ambientes de desenvolvimento.
 
 Aberto a oportunidades que me permitam contribuir de forma prática em projetos para **gerar valor na empresa** e **nas pessoas**.
 
